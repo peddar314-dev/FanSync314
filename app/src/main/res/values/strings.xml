@@ -1,0 +1,13 @@
+<resources>
+    <string name="ready">Ready for the next cheer</string>
+    <string name="joined">JOINED</string>
+    <string name="get_ready">GET READY</string>
+    <string name="cheer_now">CHEER NOW!</string>
+    <string name="brand">FanSync</string>
+    <string name="subtitle">Away Game Demo</string>
+    <string name="cheer_hint">Cheer message</string>
+    <string name="default_cheer">GO TEAM!</string>
+    <string name="trigger">Trigger 5-Second Cheer</string>
+    <string name="reset">Reset</string>
+    <string name="demo_note">Local demo · Trigger a cheer on this phone. Multi-phone cheering is coming next.</string>
+</resources>
